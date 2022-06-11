@@ -1,0 +1,7 @@
+.vs/
+bin/
+obj/
+Anathema/Utilities/config.json
+Anathema/Anathema.csproj
+Anathema.sln
+.gitattributes
